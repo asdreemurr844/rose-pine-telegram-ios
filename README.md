@@ -8,5 +8,5 @@ Rosé Pine for Telegram (iOS)!
 3. Done!
 
 ## Screenshots
-![3DDC7627-D761-4489-8173-199A2F52D567](https://user-images.githubusercontent.com/68938934/181189318-a0059ca0-b3c6-4116-8a8b-fd8c8fd1cc1c.png)
-![5A425959-78A5-46F3-9602-AB45DFAF7DDB](https://user-images.githubusercontent.com/68938934/181189330-6549defc-7aa5-42ff-84d9-c888bd1910bd.png)
+![FB9C709B-942B-4680-A01C-BF79BD1F3ED9](https://user-images.githubusercontent.com/68938934/181260910-903bed6a-e5dd-4aab-9246-6e2d1a0adc60.png)
+![B837BF9F-6A8D-4BA3-B788-E1897AFC64EA](https://user-images.githubusercontent.com/68938934/181260941-7a3d305e-964e-452f-86b5-e3ace5b98200.png)
